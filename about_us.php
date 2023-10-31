@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 <head>
   <title>About US</title>
@@ -55,5 +55,3 @@
 
 </body>
 </html>
-
-
